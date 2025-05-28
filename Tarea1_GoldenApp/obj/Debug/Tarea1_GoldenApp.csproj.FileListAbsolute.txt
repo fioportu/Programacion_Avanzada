@@ -1,0 +1,8 @@
+C:\Users\portu\source\repos\Tarea1_GoldenApp\Tarea1_GoldenApp\bin\Debug\Tarea1_GoldenApp.exe.config
+C:\Users\portu\source\repos\Tarea1_GoldenApp\Tarea1_GoldenApp\bin\Debug\Tarea1_GoldenApp.exe
+C:\Users\portu\source\repos\Tarea1_GoldenApp\Tarea1_GoldenApp\bin\Debug\Tarea1_GoldenApp.pdb
+C:\Users\portu\source\repos\Tarea1_GoldenApp\Tarea1_GoldenApp\obj\Debug\Tarea1_GoldenApp.csproj.AssemblyReference.cache
+C:\Users\portu\source\repos\Tarea1_GoldenApp\Tarea1_GoldenApp\obj\Debug\Tarea1_GoldenApp.csproj.CoreCompileInputs.cache
+C:\Users\portu\source\repos\Tarea1_GoldenApp\Tarea1_GoldenApp\obj\Debug\Tarea1_GoldenApp.exe
+C:\Users\portu\source\repos\Tarea1_GoldenApp\Tarea1_GoldenApp\obj\Debug\Tarea1_GoldenApp.pdb
+C:\Users\portu\source\repos\Tarea1_GoldenApp\Tarea1_GoldenApp\obj\Debug\Tarea1_GoldenApp.exe.config
